@@ -1,0 +1,24 @@
+{
+  "ios": {
+    "minimumBuild": 0,
+    "latestBuild": 0,
+    "storeUrl": "https://apps.apple.com/app/id0000000000",
+    "message": "Please update Full Frills Balance to continue.",
+    "availableMessage": "A newer version of Full Frills Balance is available.",
+    "enabled": false
+  },
+  "android": {
+    "minimumBuild": 0,
+    "latestBuild": 0,
+    "storeUrl": "https://play.google.com/store/apps/details?id=in.sahilsoni.fullfrillsbalance",
+    "message": "Please update Full Frills Balance to continue.",
+    "availableMessage": "A newer version of Full Frills Balance is available.",
+    "enabled": false
+  },
+  "web": {
+    "minimumBuild": 0,
+    "storeUrl": "https://example.com",
+    "message": "Please refresh Full Frills Balance.",
+    "enabled": false
+  }
+}
