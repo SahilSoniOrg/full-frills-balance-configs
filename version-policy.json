@@ -13,7 +13,7 @@
     "storeUrl": "https://play.google.com/store/apps/details?id=in.sahilsoni.fullfrillsbalance",
     "message": "Please update Full Frills Balance to continue.",
     "availableMessage": "A newer version of Full Frills Balance is available.",
-    "enabled": false
+    "enabled": true
   },
   "web": {
     "minimumBuild": 0,
